@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shiva 👋
 
-<!--
-**shiva748/shiva748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java backend developer and software enthusiast.  
+This is my first fully-fledged project-based GitHub profile!
 
-Here are some ideas to get you started:
+## 🧰 Technologies & Tools
+- Java, Spring Boot
+- MySQL, PostgreSQL
+- Gradle, Maven
+- Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [IRCTC Reservation System](https://github.com/shiva748/IRCTC) - My first complete Java-based ticket booking application.
+
+## 📊 GitHub Stats
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiva748&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- Email: you@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
