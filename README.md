@@ -14,6 +14,13 @@
 
 ---
 
+## 🌐 Portfolio
+
+Take a look at some of my featured projects and experience:  
+🔗 [regal-lamington-79f3fc.netlify.app](https://regal-lamington-79f3fc.netlify.app)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
